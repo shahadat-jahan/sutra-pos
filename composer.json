@@ -6,14 +6,14 @@
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
-        "php": "^8.5",
+        "php": "^8.5.12",
         "barryvdh/laravel-dompdf": "^3.1",
         "inertiajs/inertia-laravel": "^2.0",
         "intervention/image": "^3.11",
         "laravel/framework": "^13.0",
         "laravel/sanctum": "^4.0",
         "laravel/tinker": "^3.0",
-        "predis/predis": "^3.4",
+        "predis/predis": "^3.3",
         "spatie/laravel-permission": "^6.25",
         "tightenco/ziggy": "^2.6"
     },
